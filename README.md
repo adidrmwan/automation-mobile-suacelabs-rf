@@ -38,14 +38,6 @@ Add Robot Framework Language Server:
 
 * To execute All Test cases
   > robot tests
-* To execute All API Test cases
-  > robot tests/api
-* To execute All Website Test cases
-  > robot tests/web
-* To execute Specific Folder
-  > robot tests/folder_name
-* To execute by Tags
-  > robot -i ${TAGS} tests
 
 ## Report
 * Find the reporting file on `report.html`
