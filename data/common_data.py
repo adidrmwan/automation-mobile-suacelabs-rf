@@ -1,0 +1,6 @@
+appium_server = "http://0.0.0.0:4723"
+android_plat_name = "Android"
+android_plat_ver = "capabilities.setCapability(CapabilityType.VERSION, device.getProductVersion());"
+device_name = "capabilities.setCapability(\"udid\", device.getUniqueDeviceID());"
+app_package = "com.swaglabsmobileapp"
+app_activity = "com.swaglabsmobileapp.SplashActivity"
