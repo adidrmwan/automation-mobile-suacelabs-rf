@@ -18,13 +18,9 @@ Features:
     > python -m venv .venv
 4. Add these environment variable in the end of script .venv/bin/activate file
 
-   > export gorest='https://gorest.co.in/public'
-   
-   > export web_url_id='https://flip.id/id/landing'
+   > export password='secret_sauce'
 
-   > export web_url_en='https://flip.id/en/landing'
-
-   > export web_url='https://flip.id'
+   > export username='standard_user'
    
 6. Type `source .venv/bin/activate` on your terminal
 7. install all library
